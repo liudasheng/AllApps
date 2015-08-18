@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AllApps</string>
+    <string name="action_settings">Settings</string>
+    <string name="settting">Network Setting</string>
+    <string name="allapps">Apps</string>
+    <string name="allapps_title">Apps</string>
+    
+    <string name="cntv">CNTV</string>
+    
+    <string name="browser">Browser</string>
+    
+    <string name="downloads">Downloads</string>
+
+</resources>

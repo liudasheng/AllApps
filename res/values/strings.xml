@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AllApps</string>
+    <string name="action_settings">Settings</string>
+    <string name="settting">网络设置</string>
+    <string name="allapps">本地应用</string>
+    <string name="allapps_title">本地应用</string>
+    
+    <string name="cntv">互联网电视</string>
+    
+    <string name="browser">浏览器</string>
+    
+    <string name="downloads">下载</string>
+
+</resources>
